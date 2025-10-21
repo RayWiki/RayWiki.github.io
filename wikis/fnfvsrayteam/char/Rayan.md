@@ -11,14 +11,14 @@ title: FNF Vs Rayteam - Rayan
 ### Rayan is the leader of Rayteam and the first guy to be rap battled by bf.
 
 
-Gender:Male
-Skils:All
-Personality:Frendly (unless if you prevoke him),playfull,energic
-Likes:pizzas,hamburgers, and somethings
-Dislikes:Neo and his team, people not being cool with him, and him being mad
-OC Bday : look on life card
-Activities : Karate, Goes to school i guess
-Bonus : he likes to annoy people
+Gender: Male
+Skils: All
+Personality: Frendly (unless if you prevoke him),playfull,energic
+Likes: pizzas,hamburgers, and somethings
+Dislikes: Neo and his team, people not being cool with him, and him being mad
+OC Bday: look on life card
+Activities: Karate, Goes to school i guess
+Bonus: he likes to annoy people
 
 
 ## Discription
