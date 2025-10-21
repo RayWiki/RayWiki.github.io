@@ -40,7 +40,7 @@ Jsvilvas an pencil sharpener a fully green with an black stripe at top of the bo
         <img src="jvsimg/jsvivlholdingpencil.png" width=199 height=100/>
         <p>Jvsilva Holding Pencil</p>
     </div>
-    <div >
+    <div style="margin-left:10px;">
         <img src="jvsimg/jsvivlaspencil.png" width=40 height=100/>
         <p>Jvsilva's Pencil</p>
     </div>

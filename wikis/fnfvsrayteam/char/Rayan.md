@@ -44,4 +44,16 @@ Blocky guy, kinda looks like a mc character but hes not trust me, made when raya
         <img src="Rayimg/RayanFNF.png" width=199 height=200/>
         <p>Old Rayan FNF</p>
     </div>
+    <div style="margin-left:10px;">
+        <img src="Rayimg/raybraceletdesign.png" width=250 height=200/>
+        <p>Rayan's Bracelet Design</p>
+    </div>
+    <div style="margin-left:10px;">
+        <img src="Rayimg/raynobitches.png" width=199 height=200/>
+        <p>Rayan No bitches</p>
+    </div>
+    <div style="margin-left:10px;">
+        <img src="Rayimg/raylifecard.png" width=350 height=200/>
+        <p>Rayan's life card (dont ask on why i have a picture of his life card)</p>
+    </div>
 </div>

@@ -59,8 +59,6 @@ Also if he wants to stop a corruption fully he'd have to die for like 48 hours o
 
 # Gallery
 
-</div>
-
 <div style="display: flex">
     <div>
         <img src="yoyoimg/yoyostream.png" width=199 height=200/>
