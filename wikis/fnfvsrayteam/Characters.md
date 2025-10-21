@@ -5,7 +5,7 @@ layout: default
 
 # Characters
 
-1. Rayan
+1. [Rayan](char/Rayan.html)
 
 2. Jsvilva
 
