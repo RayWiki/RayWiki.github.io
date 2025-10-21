@@ -13,9 +13,18 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="topbar"></div>
+    <div class="topbar">
+        <div class="tbleft">
+            <a class="linkh1">RayWiki</a>
+        </div>
+        <div class="tbright">
+            <a class="linkh1">Wikis</a>
+            <a class="linkh1">Projects</a>
+            <a class="linkh1">About</a>
+        </div>
+    </div>
     <div>
-        <main>
+        <main style="margin:50px;">
             {{ content }}
         </main>
     </div>

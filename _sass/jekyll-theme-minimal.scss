@@ -57,6 +57,7 @@ a:hover small {
 }
 
 .topbar {
+  align-items: center;
   width: 100%;
   background-color: #000000;
   height: 60px;
@@ -64,6 +65,21 @@ a:hover small {
   
   padding: 0;
   margin-bottom: 50px;
+  display: flex;
+}
+.topbar a {
+  color: snow;
+}
+.linkh1 {
+  font-size:28px;
+}
+.tbleft {
+  position: absolute;
+  left: 5px;
+}
+.tbright {
+  position: absolute;
+  right: 5px;
 }
 
 blockquote {
