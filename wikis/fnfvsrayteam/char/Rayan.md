@@ -2,7 +2,7 @@
 
 layout: default
 
-title:FNF Vs Rayteam - Rayan
+title: FNF Vs Rayteam - Rayan
 
 ---
 
@@ -10,16 +10,23 @@ title:FNF Vs Rayteam - Rayan
 
 ### Rayan is the leader of Rayteam and the first guy to be rap battled by bf.
 
-<div>
-    <p>Gender:Male</p>
-    <p>Skils:All</p>
-    <p>Personality:Frendly (unless if you prevoke him),playfull,energic</p>
-    <p>Likes:pizzas,hamburgers, and somethings</p>
-    <p>Dislikes:Neo and his team, people not being cool with him, and him being mad</p>
-    <p>OC Bday : look on life card</p>
-    <p>Activities : Karate, Goes to school i guess</p>
-    <p>Bonus : he likes to annoy people</p>
-</div>
+
+Gender: Male
+
+Skils: All
+
+Personality: Frendly (unless if you prevoke him),playfull,energic
+
+Likes: pizzas,hamburgers, and somethings
+
+Dislikes: Neo and his team, people not being cool with him, and him being mad
+
+OC Bday: look on life card
+
+Activities: Karate, Goes to school i guess
+
+Bonus: he likes to annoy people
+
 
 ## Discription
 
@@ -37,7 +44,7 @@ Blocky guy, kinda looks like a mc character but hes not trust me, made when raya
 
 <div style="display: flex">
     <div>
-        <img src="Rayimg/RayanFNF.png" width=199 height=200></img>
+        <img src="Rayimg/RayanFNF.png" width=199 height=200/>
         <p>Old Rayan FNF</p>
     </div>
 </div>

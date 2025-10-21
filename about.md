@@ -12,4 +12,4 @@ Site made by [VukiDev](https://youtube.com/channel/UCAA8vHeJRdVhQPW_w9NmXsQ) a R
 
 Google Sites version of [Raywiki](https://sites.google.com/view/raywiki/home)
 
-powered by [jekyll](https://github.com/jekyll/jekyll) and [Github](github.com)
+powered by [jekyll](https://github.com/jekyll/jekyll) and [Github](https://github.com)
