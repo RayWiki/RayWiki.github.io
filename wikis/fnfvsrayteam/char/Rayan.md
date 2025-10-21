@@ -1,5 +1,4 @@
 ---
-
 layout: default
 
 title: FNF Vs Rayteam - Rayan
@@ -9,7 +8,6 @@ title: FNF Vs Rayteam - Rayan
 # Rayan
 
 ### Rayan is the leader of Rayteam and the first guy to be rap battled by bf.
-
 
 Gender: Male
 
@@ -26,7 +24,6 @@ OC Bday: look on life card
 Activities: Karate, Goes to school i guess
 
 Bonus: he likes to annoy people
-
 
 ## Discription
 

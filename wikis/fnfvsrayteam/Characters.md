@@ -7,9 +7,9 @@ layout: default
 
 1. [Rayan](char/Rayan.html)
 
-2. Jsvilva
+2. [Jsvilva](char/Jvsilva.html)
 
-3. Y0Y0lox
+3. [Y0Y0lox](char/Y0Y0lox.html)
 
 4. VukiDev
 
