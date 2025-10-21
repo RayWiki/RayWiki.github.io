@@ -1,9 +1,9 @@
 ---
-title: RayWiki
+title: RayTeamWiki
 layout: default
 ---
 
-# Welcome To RayWiki
+# Welcome To RayTeamWiki
 
 in this wiki you can see projects that Rayteam has done
 

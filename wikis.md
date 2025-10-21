@@ -3,6 +3,4 @@ title: Wikis
 layout: default
 ---
 
-1. FNF vs Rayteam
-
-
+1. [FNF vs Rayteam](wikis/fnfvsrayteam/main.html)
