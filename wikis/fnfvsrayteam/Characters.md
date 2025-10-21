@@ -11,7 +11,7 @@ layout: default
 
 3. [Y0Y0lox](char/Y0Y0lox.html)
 
-4. VukiDev
+4. [VukiDev](char/VukiDev.html)
 
 ## Enemies
 
