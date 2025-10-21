@@ -1,13 +1,13 @@
 ---
 layout: default
 
-title: FNF Vs Rayteam - Jsvilva
+title: FNF Vs Rayteam - Jvsilva
 
 ---
 
-# Jsvilva
+# Jvsilva
 
-### Jsvilva is an Pencil Sharpener a frend of rayan the most frendly member in Rayteam.
+### Jvsilva is an Pencil Sharpener a frend of rayan the most frendly member in Rayteam.
 
 Gender: Male
 
@@ -31,16 +31,16 @@ Jsvilvas an pencil sharpener a fully green with an black stripe at top of the bo
 
 ## Gallery
 
-<div>
+<div style="display:flex">
     <div>
         <img src="jvsimg/jsvilva1.png" width=199 height=200/>
         <p>Jvsilva</p>
     </div>
-    <div>
+    <div style="margin-left:10px;">
         <img src="jvsimg/jsvivlholdingpencil.png" width=199 height=100/>
         <p>Jvsilva Holding Pencil</p>
     </div>
-    <div>
+    <div >
         <img src="jvsimg/jsvivlaspencil.png" width=40 height=100/>
         <p>Jvsilva's Pencil</p>
     </div>

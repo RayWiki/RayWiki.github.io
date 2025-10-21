@@ -7,7 +7,7 @@ layout: default
 
 1. [Rayan](char/Rayan.html)
 
-2. [Jsvilva](char/Jvsilva.html)
+2. [Jvsilva](char/Jvsilva.html)
 
 3. [Y0Y0lox](char/Y0Y0lox.html)
 

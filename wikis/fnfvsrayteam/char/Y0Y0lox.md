@@ -66,15 +66,13 @@ Also if he wants to stop a corruption fully he'd have to die for like 48 hours o
         <img src="yoyoimg/yoyostream.png" width=199 height=200/>
         <p>Y0Y0lox's when hes streaming</p>
     </div>
-    <div>
+    <div style="margin-left:10px;">
         <img src="yoyoimg/yoyoposterroom.png" width=299 height=200/>
         <p>Y0Y0lox's poster in his room xd</p>
         <p>scaled due being too big to fit in frame</p>
     </div>
-    <div>
+    <div style="margin-left:10px;">
         <img src="yoyoimg/yoyoolddesing.png" width=100 height=200/>
         <p>Y0Y0lox's old self</p>
     </div>
 </div>
-
-
