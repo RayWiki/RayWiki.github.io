@@ -11,8 +11,6 @@ this is an mod about "Rayteam on a friday night"
 
 2. Stages
 
-3. Songs
+3. [Weeks/Songs](Weeks.html)
 
-4. [Weeks](Weeks.html)
-
-5. Extras
+4. Extras
