@@ -3,5 +3,5 @@ title: Wikis
 layout: default
 ---
 
-1. [FNF vs Rayteam](wikis/fnfvsrayteam/Main.html)
+1. [Rayteam on a friday night](wikis/fnfvsrayteam/Main.html)
 2. [Vs Vuki](wikis/vsvuki/Main.html)
