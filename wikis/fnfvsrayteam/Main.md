@@ -13,6 +13,6 @@ this is an mod about "Rayteam on a friday night"
 
 3. Songs
 
-4. Weeks
+4. [Weeks](Weeks.html)
 
 5. Extras
