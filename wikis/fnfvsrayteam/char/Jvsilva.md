@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: FNF Vs Rayteam - Jvsilva
+title: Rayteam on a friday night - Jvsilva
 
 ---
 

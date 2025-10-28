@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: FNF Vs Rayteam - Rayan
+title: Rayteam on a friday night - Rayan
 
 ---
 
