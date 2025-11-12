@@ -1,11 +1,11 @@
 ---
 layout: default
 
-title: Rayteam on a friday night - VukiDev
+title: Rayteam on a friday night - Andrew
 
 ---
 
-# VukiDev
+# Andrew
 
 ### Vuki is an person that knows coding pretty well he even made this site! hes kinda edgy frfr.
 
@@ -39,8 +39,15 @@ Apperance:
 
     he is white with blue hair and a red with a black stripe in the middle shirt with  #000011 (somewhere there ig) pants and white shoes,
 
-## Vuki's shi
+# Gallery
+<div style="display: flex">
+    <div>
+        <img src="vukiimg/vukiold.png" width=199 height=200/>
+        <p>Andrew's old design</p>
+    </div>
+</div>
 
+## Vuki's shi
 <div style="display:flex;">
     <a href="https://www.youtube.com/channel/UCAA8vHeJRdVhQPW_w9NmXsQ"><img src="vukiimg/youtube_white_28dp.png"></a>
     <a href="https://vuki-devexe.github.io/"><img src="vukiimg/link_white_28dp.png"></a>

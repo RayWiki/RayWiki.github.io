@@ -9,9 +9,11 @@ layout: default
 
 2. [Jvsilva](char/Jvsilva.html)
 
-3. [Y0Y0lox](char/Y0Y0lox.html)
+3. [Diamond](char/Diamond.html)
 
-4. [VukiDev](char/VukiDev.html)
+4. [EVILDiamond](char/EVILDiamond.html)
+
+5. [Andrew](char/Andrew.html)
 
 ## Enemies
 

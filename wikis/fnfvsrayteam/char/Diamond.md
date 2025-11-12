@@ -1,11 +1,11 @@
 ---
 layout: default
 
-title: FNF Vs Rayteam - Y0Y0lox
+title: FNF Vs Rayteam - Diamond
 
 ---
 
-# Y0Y0lox
+# Diamond
 
 ### the most cartoonish character in the intire mod having power of toon force.
 
@@ -62,15 +62,15 @@ Also if he wants to stop a corruption fully he'd have to die for like 48 hours o
 <div style="display: flex">
     <div>
         <img src="yoyoimg/yoyostream.png" width=199 height=200/>
-        <p>Y0Y0lox's when hes streaming</p>
+        <p>Diamond's when hes streaming</p>
     </div>
     <div style="margin-left:10px;">
         <img src="yoyoimg/yoyoposterroom.png" width=299 height=200/>
-        <p>Y0Y0lox's poster in his room xd</p>
+        <p>Diamond's poster in his room xd</p>
         <p>scaled due being too big to fit in frame</p>
     </div>
     <div style="margin-left:10px;">
         <img src="yoyoimg/yoyoolddesing.png" width=100 height=200/>
-        <p>Y0Y0lox's old self</p>
+        <p>Diamond's old self</p>
     </div>
 </div>

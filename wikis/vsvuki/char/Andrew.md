@@ -2,13 +2,13 @@
 
 layout: default
 
-title: Vs Vuki - VukiDev
+title: Vs Vuki - Andrew
 
 ---
 
-# VukiDev
+# Andrew
 
-### Vuki is an person that knows coding pretty well he even made this site! hes kinda edgy frfr.
+### Andrew is an person that knows coding pretty well he even made this site! hes kinda edgy frfr Andrew is vukis oc.
 
 Age: 15,
 

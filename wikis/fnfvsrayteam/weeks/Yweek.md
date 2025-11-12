@@ -7,10 +7,11 @@ layout: default
     <img src="weekyimg/unnamed.png"/>
 </div>
 
-# Week Y0Y0lox
+# Week Diamond
 
 ### COMMING SOON
 
 Songs :  
 
-1. !!! NO SONGS YET !!!
+1. Jazzier : Audio
+2. unJazz : Audio
