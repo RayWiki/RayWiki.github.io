@@ -1,18 +1,17 @@
 ---
-
 layout: default
 
-title: Vs Vuki - Andrew
+title: Rayteam on a friday night - Andrew
 
 ---
 
 # Andrew
 
-### Andrew is an person that knows coding pretty well he even made this site! hes kinda edgy frfr Andrew is vukis oc.
+### Andrew is an person that knows coding pretty well, hes kinda edgy frfr.
 
-Age: 15,
+Age: 18,
 
-Skills: quickly understands something, good at programing, pro gamr,
+Skills: quickly understands something, good at programing,
 
 Gender: Male,
 
@@ -20,7 +19,7 @@ Likes: enjoying time with frends!, sometimes complicated stuff simplified, progr
 
 Dislikes: People making fun of him, racism, random accusations, random hate, not tasty food,
 
-Trusts: Rayteam members, somewhat neo and others in his team, Vuki's other online friends and irl frends
+Trusts: his friend, somewhat neo and others in his team,
 
 ## Discription
 
@@ -38,5 +37,20 @@ Personality:
 
 Apperance:
 
-    he is white with blue hair and a red with a black stripe in the middle shirt with  #000011 (somewhere there ig) pants and white shoes,
+    he is white with blue hair and a red with a black stripe in the middle shirt with  #0000a5 (somewhere there ig) pants and white shoes,
 
+# Gallery
+<div style="display: flex">
+    <div>
+        <img src="vukiimg/vukiold.png" width=199 height=200/>
+        <p>Andrew's old design</p>
+    </div>
+</div>
+
+## Vuki's shi
+<div style="display:flex;">
+    <a href="https://www.youtube.com/channel/UCAA8vHeJRdVhQPW_w9NmXsQ"><img src="vukiimg/youtube_white_28dp.png"></a>
+    <a href="https://vuki-devexe.github.io/"><img src="vukiimg/link_white_28dp.png"></a>
+    <a href="https://discord.com/invite/zPTSWzjZt9"><img src="vukiimg/link_white_28dp.png"></a>
+    <a href="https://www.instagram.com/vukigaming123/"><img src="vukiimg/instagram_white_28dp.png"></a>
+</div>
