@@ -42,9 +42,7 @@ Very chill and like doesn't care about anything alot
 Basically there is NO weaknesses for him but i'll list things he can survive;
 
 1- Being corrupted by something
-
 2- Dying (uncontrollable)
-
 3-  The heat death of the universe
 
 ### Powers

@@ -13,8 +13,6 @@ layout: default
 
 Songs :  
 
-1. Meeting : Audio
-
-2. Reference : Audio
-
-3. Pain : Audio
+1. Meeting : [Audio](https://youtu.be/no8bZpOyFzQ?si=aMwxFao3veJ8orCG)
+2. Reference : [Audio](https://youtu.be/Jf6tKuewdn4?si=XZuLqoTI2uoquMVZ)
+3. Pain : [Audio](https://youtu.be/IgO2Zpx5haA?si=zvG7-P5ZVbX-CROL)

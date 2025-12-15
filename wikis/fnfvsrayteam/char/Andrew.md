@@ -26,13 +26,9 @@ Trusts: his friend, somewhat neo and others in his team,
 Personality:
 
 1. Joyfull
-
 2. Helpfull
-
 3. Frendly (he isint when pissed off)
-
 4. Selective Hearing
-
 5. Quiet (he only talks whenever he wants to lmao)
 
 Apperance:

@@ -8,9 +8,6 @@ layout: default
 this is an mod about "Rayteam on a friday night"
 
 1. [Characters](Characters.html)
-
 2. Stages
-
 3. [Weeks/Songs](Weeks.html)
-
 4. Extras
