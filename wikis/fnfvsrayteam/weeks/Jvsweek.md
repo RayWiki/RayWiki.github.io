@@ -13,6 +13,7 @@ layout: default
 
 Songs : 
 
-1. Sharpenized : Audio 
-2. Art Skills :  Audio 
-3. Pencil Dodging : Audio
+-# Inst only
+1. Sharpenized : [Audio](audio/sharpened.ogg)
+2. Art Skills :  [Audio](audio/artskills.ogg)
+3. Pencil Dodging : [Audio](audio/pencildodgin.ogg) 

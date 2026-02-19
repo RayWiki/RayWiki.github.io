@@ -9,9 +9,10 @@ layout: default
 
 # Week Diamond
 
-### COMMING SOON
+### Rap epicly with Diamond guy yeahhhh.
 
 Songs :  
 
-1. Jazzier : Audio
-2. unJazz : Audio
+-# Inst only
+1. Jazzier : [Audio](audio/jazzy.ogg)
+2. unJazz : [Audio](audio/unjazz.ogg)

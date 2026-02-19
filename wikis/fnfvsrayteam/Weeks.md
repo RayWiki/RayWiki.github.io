@@ -9,4 +9,4 @@ layout: default
 2. [Week Jvs (Jvsilva)](weeks/Jvsweek.html)
 3. [Week Y (Diamond)](weeks/Yweek.html)
 4. [Week V (Andrew)](weeks/Vweek.html)
-5. Week P (Philooxy)
+5. [Week P (Philooxy)](weeks/Pweek.html)
