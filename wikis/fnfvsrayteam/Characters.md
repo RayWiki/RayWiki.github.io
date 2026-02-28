@@ -18,4 +18,4 @@ layout: default
 3. [Pirl](char/enemies/pirl.html)
 
 ## Side Characters
-1. [EVILDiamond](char/EVILDiamond.html)
+1. [EVILDiamond](char/EvilDiamond.html)
